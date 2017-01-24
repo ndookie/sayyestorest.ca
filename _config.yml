@@ -20,7 +20,7 @@ description: "Campaign for increased sleeping space on uWaterloo's Campus"
 source_link: "http://sayyestorest.ca"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-69461341-2 
 
 
 ### template colors, used site-wide via css ###
